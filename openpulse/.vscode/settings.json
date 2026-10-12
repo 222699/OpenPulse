@@ -1,0 +1,27 @@
+
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.compile.nullAnalysis.mode": "automatic",
+
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "editor.rulers": [100],
+    "editor.minimap.enabled": false,
+    "editor.stickyScroll.enabled": true,
+    "editor.renderWhitespace": "boundary",
+
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java",
+        "editor.formatOnSave": true,
+        "editor.tabSize": 4
+    },
+
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+
+    "explorer.compactFolders": false,
+    "workbench.editor.enablePreview": false,
+    "java.debug.settings.console": "integratedTerminal"
+}
